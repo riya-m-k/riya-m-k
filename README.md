@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @riya-m-k
+- 👀 I like to code
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: riyamk2022@gmail.com
